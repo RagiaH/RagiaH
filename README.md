@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Ragia Hisham Aboutaleb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 
 <h3 align="center">
-- Graduated From Faculty Of Science MEU Universty Computer Science <br>
-- Master's degree in AI & Data Science from Queen's University in Canada
+- Master's degree in AI & Data Science from Queen's University in Canada <br>
+- Graduated From Faculty Of Science MEU Universty Computer Science
 </h3>
 <br>
 
